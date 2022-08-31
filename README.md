@@ -34,6 +34,6 @@ Hello sir, with this console project, you can draw 6 different shapes using loop
 
 Melik Baykal - [@lilMellik](https://twitter.com/lilMellik) - melikbaykal06@gmail.com
 
-Project Link: [UpperCase LowerCase](https://github.com/Melik-B/UppercaseLowercase)
+Project Link: [Shapes](https://github.com/Melik-B/shapes)
 
 <p align="right">-Melik Baykal</p>
