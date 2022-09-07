@@ -36,4 +36,4 @@ Melik Baykal - [@lilMellik](https://twitter.com/lilMellik) - melikbaykal06@gmail
 
 Project Link: [Shapes](https://github.com/Melik-B/shapes)
 
-<p align="right">-Melik Baykal</p>
+<p align="right">-Melik Bayka</p>
